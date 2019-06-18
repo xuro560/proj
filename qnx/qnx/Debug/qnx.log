@@ -1,0 +1,3 @@
+﻿  qnx.cpp
+c:\users\anel_\desktop\qnx\qnx\qnx.cpp(68): warning C4101: dw: неиспользованная локальная переменная
+  qnx.vcxproj -> C:\Users\anel_\Desktop\qnx\Debug\qnx.exe

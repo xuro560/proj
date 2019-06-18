@@ -1,0 +1,22 @@
+﻿Построение начато 21.11.2018 16:47:33.
+     1>Проект "E:\список2\список2\список2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\список2.unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\список2\Debug\список2.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\список2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\список2\Debug\список2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\список2\Debug\список2.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\список2.obj"
+     1>stdafx.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+         список2.vcxproj -> E:\список2\Debug\список2.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\список2\Debug\список2.exe;#1" /manifest "Debug\список2.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Файл "Debug\список2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\список2.lastbuildstate".
+     1>Построение проекта "E:\список2\список2\список2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:09.03
